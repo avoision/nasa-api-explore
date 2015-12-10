@@ -1,0 +1,16 @@
+{
+    "name"            : "nasa",
+    "version"         : "1.0.0",
+    "description"     : "Placeholder",
+    "author"          : "Felix Jung",
+    "main"            : "nasa.js", 
+    "scripts"         : {
+        "start" : "node nasa.js"
+    },
+    "engines"         : {
+        "node": "5.0.0"
+    },
+    "dependencies"    : {
+        "node-rest-client"  : "~1.4.3"
+    }
+}
